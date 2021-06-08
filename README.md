@@ -1,13 +1,13 @@
 # TestProject
-# Web Automation assessment 
+# Web Automation 
 A UI test automation solution using Selenium,Java, Maven and Cucumber
 
-## Overvie of the Project 
+## Overview of the Project 
 
-**Web Automation assessment**
+**Web Automation**
 
-Develop a Web test solution that automates a few simple tests, composed as BDD scenarios.
-The target for the test is the dummy web site: http://automationpractice.com
+Implemented a Web test solution that automates a few simple tests, composed as BDD scenarios.
+The target for the test is the web site: http://automationpractice.com
 
 - **Scenario 1**: Order T-Shirt (and Verify in Order History)
 - **Scenario 2**: Update Personal Information (First Name) in My Account
